@@ -5,5 +5,7 @@ echo "Kelas : XI RPL 2";
 echo "<br>";
 echo "Sekolah : SMK Taruna Bhakti Depok";
 echo "<br>";
-echo "Alamat : Jl. Kawi III No. 159 Kel Abadijaya Kec Sukmajaya";
+echo "No Tlp : 087877261228";
+echo "<br>";
+echo "Email : daffabagus031@gmail.com";
 ?>    
